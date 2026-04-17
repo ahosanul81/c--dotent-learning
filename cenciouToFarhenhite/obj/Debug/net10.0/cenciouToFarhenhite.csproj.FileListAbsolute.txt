@@ -1,0 +1,14 @@
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\bin\Debug\net10.0\cenciouToFarhenhite.exe
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\bin\Debug\net10.0\cenciouToFarhenhite.deps.json
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\bin\Debug\net10.0\cenciouToFarhenhite.runtimeconfig.json
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\bin\Debug\net10.0\cenciouToFarhenhite.dll
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\bin\Debug\net10.0\cenciouToFarhenhite.pdb
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.dll
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\refint\cenciouToFarhenhite.dll
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.pdb
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\cenciouToFarhenhite.genruntimeconfig.cache
+D:\dotnet\dotnet-learning\cenciouToFarhenhite\obj\Debug\net10.0\ref\cenciouToFarhenhite.dll

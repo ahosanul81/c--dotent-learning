@@ -1,0 +1,14 @@
+D:\dotnet\dotnet-learning\type-casting\bin\Debug\net10.0\type-casting.exe
+D:\dotnet\dotnet-learning\type-casting\bin\Debug\net10.0\type-casting.deps.json
+D:\dotnet\dotnet-learning\type-casting\bin\Debug\net10.0\type-casting.runtimeconfig.json
+D:\dotnet\dotnet-learning\type-casting\bin\Debug\net10.0\type-casting.dll
+D:\dotnet\dotnet-learning\type-casting\bin\Debug\net10.0\type-casting.pdb
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.dll
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\refint\type-casting.dll
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.pdb
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\type-casting.genruntimeconfig.cache
+D:\dotnet\dotnet-learning\type-casting\obj\Debug\net10.0\ref\type-casting.dll

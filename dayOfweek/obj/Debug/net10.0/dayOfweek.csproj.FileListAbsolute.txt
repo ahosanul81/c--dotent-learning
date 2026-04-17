@@ -1,0 +1,14 @@
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\dayOfweek\bin\Debug\net10.0\dayOfweek.exe
+D:\dotnet\dotnet-learning\dayOfweek\bin\Debug\net10.0\dayOfweek.deps.json
+D:\dotnet\dotnet-learning\dayOfweek\bin\Debug\net10.0\dayOfweek.runtimeconfig.json
+D:\dotnet\dotnet-learning\dayOfweek\bin\Debug\net10.0\dayOfweek.dll
+D:\dotnet\dotnet-learning\dayOfweek\bin\Debug\net10.0\dayOfweek.pdb
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.dll
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\refint\dayOfweek.dll
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.pdb
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\dayOfweek.genruntimeconfig.cache
+D:\dotnet\dotnet-learning\dayOfweek\obj\Debug\net10.0\ref\dayOfweek.dll

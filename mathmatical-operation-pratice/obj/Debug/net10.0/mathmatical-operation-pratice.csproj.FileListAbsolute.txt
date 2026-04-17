@@ -1,0 +1,14 @@
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\bin\Debug\net10.0\mathmatical-operation-pratice.exe
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\bin\Debug\net10.0\mathmatical-operation-pratice.deps.json
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\bin\Debug\net10.0\mathmatical-operation-pratice.runtimeconfig.json
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\bin\Debug\net10.0\mathmatical-operation-pratice.dll
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\bin\Debug\net10.0\mathmatical-operation-pratice.pdb
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.dll
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\refint\mathmatical-operation-pratice.dll
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.pdb
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\mathmatical-operation-pratice.genruntimeconfig.cache
+D:\dotnet\dotnet-learning\mathmatical-operation-pratice\obj\Debug\net10.0\ref\mathmatical-operation-pratice.dll

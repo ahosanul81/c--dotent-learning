@@ -1,0 +1,14 @@
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\digit-count\bin\Debug\net10.0\digit-count.exe
+D:\dotnet\dotnet-learning\digit-count\bin\Debug\net10.0\digit-count.deps.json
+D:\dotnet\dotnet-learning\digit-count\bin\Debug\net10.0\digit-count.runtimeconfig.json
+D:\dotnet\dotnet-learning\digit-count\bin\Debug\net10.0\digit-count.dll
+D:\dotnet\dotnet-learning\digit-count\bin\Debug\net10.0\digit-count.pdb
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.dll
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\refint\digit-count.dll
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.pdb
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\digit-count.genruntimeconfig.cache
+D:\dotnet\dotnet-learning\digit-count\obj\Debug\net10.0\ref\digit-count.dll

@@ -1,0 +1,14 @@
+D:\dotnet\dotnet-learning\whileLoop\bin\Debug\net10.0\whileLoop.exe
+D:\dotnet\dotnet-learning\whileLoop\bin\Debug\net10.0\whileLoop.deps.json
+D:\dotnet\dotnet-learning\whileLoop\bin\Debug\net10.0\whileLoop.runtimeconfig.json
+D:\dotnet\dotnet-learning\whileLoop\bin\Debug\net10.0\whileLoop.dll
+D:\dotnet\dotnet-learning\whileLoop\bin\Debug\net10.0\whileLoop.pdb
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.dll
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\refint\whileLoop.dll
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.pdb
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\whileLoop.genruntimeconfig.cache
+D:\dotnet\dotnet-learning\whileLoop\obj\Debug\net10.0\ref\whileLoop.dll
