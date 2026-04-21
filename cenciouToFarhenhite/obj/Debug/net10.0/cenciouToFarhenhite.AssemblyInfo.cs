@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cenciouToFarhenhite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cea93c961a3cb96d8e533a8070fdcd7579070455")]
 [assembly: System.Reflection.AssemblyProductAttribute("cenciouToFarhenhite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cenciouToFarhenhite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
